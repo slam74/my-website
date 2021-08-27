@@ -1,0 +1,24 @@
+.me {
+    padding: 4rem;
+    background: url('../images/background-2.jpg') center center/cover no-repeat;
+    /* background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%); */
+    color: white;
+}
+
+td {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 80px;
+    margin-bottom: 0.8em;
+}
+
+p, table {
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 1.5em;
+}

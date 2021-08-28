@@ -10,13 +10,13 @@ function Cards() {
         {/* <div className='cards__wrapper'> */}
           <ul className='cards__items'>
             <CardItem
-              src='images/pikachu.png'
+              src='./images/pikachu.png'
               text='The Pikachu Project'
               label='Pokemon'
               path='/'
             />
             <CardItem
-              src='images/pikachu.png'
+              src='./images/pikachu.png'
               text='The Pikachu Project'
               label='Pokemon'
               path='/'
@@ -24,13 +24,13 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/pikachu.png'
+              src='./images/pikachu.png'
               text='The Pikachu Project'
               label='Pokemon'
               path='/'
             />
             <CardItem
-              src='images/pikachu.png'
+              src='./images/pikachu.png'
               text='The Pikachu Project'
               label='Pokemon'
               path='/'

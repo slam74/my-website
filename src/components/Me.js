@@ -10,7 +10,7 @@ function Me() {
             <table class="table">
                 <tr>
                     <th class="table-dark">Programming Languages</th>
-                    <td>C, C++, Java, Swift</td>
+                    <td>C, C++, Java, Python, Swift</td>
                 </tr>
                 <tr>
                     <th class="table-dark">Web Development</th>
